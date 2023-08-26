@@ -1,2 +1,2 @@
 # MySQL-Portfolio
-SQL projects
+SQL projects and sample code
